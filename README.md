@@ -26,229 +26,66 @@
 
 ---
 
-<div align="center">
-
-# `N A I T I K` <sub>// in motion</sub>
-
-<sup>
-software · systems · infrastructure · ideas
-</sup>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:0F172A&height=2&section=header" width="80%" />
-
-</div>
-
-<br>
+## 🧑‍💻 `whoami`
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="60%" valign="top">
 
-### 01 / The person
+<h3>👋 Hi, I'm Naitik Vadher</h3>
 
-**Naitik Vadher**
+<p>
+<b>B.Tech ECE @ MNIT Jaipur</b><br/>
+Software Engineering • Full-Stack • DevOps • AI
+</p>
 
-`B.Tech ECE · MNIT Jaipur`
+<p>
+I enjoy building software systems and understanding what happens
+<b>behind the code</b> — from algorithms and backend services to
+containers, cloud infrastructure and deployment automation.
+</p>
 
-I'm interested in the space where **software meets systems**.
-
-I build full-stack applications, solve algorithmic problems, and increasingly spend time understanding what happens after the code is written — containers, infrastructure, deployment, automation and observability.
+<p>
+🚀 <b>Building</b> software & full-stack systems<br/>
+☁️ <b>Exploring</b> DevOps, Cloud & Infrastructure<br/>
+🤖 <b>Learning</b> AI × DevOps<br/>
+✍️ <b>Writing</b> about tools, systems & engineering
+</p>
 
 </td>
 
-<td width="48%" valign="top">
+<td width="40%" valign="top">
 
 ```text
-┌──────────────────────────────┐
-│                              │
-│  CURRENT STATE               │
-│                              │
-│  software        ● building  │
-│  full-stack      ● building  │
-│  devops          ● exploring │
-│  cloud           ● exploring │
-│  ai              ● learning  │
-│  writing         ● active    │
-│                              │
-│  location        → MNIT      │
-│  mode            → curious   │
-│                              │
-└──────────────────────────────┘
+┌────────────────────────────┐
+│                            │
+│  $ whoami                  │
+│                            │
+│  Naitik Vadher             │
+│                            │
+│  B.Tech ECE                │
+│  MNIT Jaipur               │
+│                            │
+│  focus:                    │
+│  ├─ software               │
+│  ├─ full-stack             │
+│  ├─ devops / cloud         │
+│  └─ ai × devops            │
+│                            │
+│  status: building...       │
+│                            │
+└────────────────────────────┘
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
+<p align="center">
+  <br/>
+  <code>Learn</code> → <code>Build</code> → <code>Break</code> → <code>Debug</code> → <code>Understand</code> → <code>Improve</code>
+</p>
 
-<div align="center">
-
-```text
-        CODE
-         │
-         ▼
-      SYSTEMS
-      ╱     ╲
-     ▼       ▼
-   CLOUD   AUTOMATION
-     ╲       ╱
-      ▼     ▼
-      PRODUCTION
-          │
-          ▼
-        AI ×
-       DEVOPS
-```
-
-</div>
-
-<br>
-
-### 02 / What keeps me curious
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**⌘**
-
-<br>
-
-`BUILD`
-
-Software
-Full-Stack
-Backend
-
-</td>
-
-<td align="center" width="20%">
-
-**◈**
-
-<br>
-
-`SOLVE`
-
-DSA
-Algorithms
-Systems
-
-</td>
-
-<td align="center" width="20%">
-
-**⌁**
-
-<br>
-
-`SHIP`
-
-Docker
-CI/CD
-Kubernetes
-
-</td>
-
-<td align="center" width="20%">
-
-**◇**
-
-<br>
-
-`EXPLORE`
-
-Cloud
-AI
-Automation
-
-</td>
-
-<td align="center" width="20%">
-
-**✎**
-
-<br>
-
-`WRITE`
-
-Tools
-Systems
-Engineering
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-> **I don't want to just use technology.**
-> *I want to understand what happens underneath it.*
-
-</div>
-
-<br>
-
-<details>
-<summary><b>↳ Open the current trajectory</b></summary>
-
-<br>
-
-```text
-                 ┌──────────────┐
-                 │   SOFTWARE   │
-                 └──────┬───────┘
-                        │
-                        ▼
-                ┌───────────────┐
-                │   FULL-STACK  │
-                └───────┬───────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │     DEVOPS        │
-              │                   │
-              │ Docker · CI/CD    │
-              │ Terraform · AWS   │
-              │ Ansible · K8s     │
-              │ Grafana            │
-              └─────────┬─────────┘
-                        │
-                        ▼
-                ┌───────────────┐
-                │    CLOUD      │
-                └───────┬───────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │     AI × DEVOPS  │
-              │                   │
-              │   ← currently →   │
-              └───────────────────┘
-```
-
-I'm currently exploring how AI-powered applications can move beyond
-experimentation into systems that can be **deployed, automated,
-monitored and scaled**.
-
-</details>
-
-<br>
-
-<div align="center">
-
-`LEARN`  →  `BUILD`  →  `SHIP`  →  `BREAK`  →  `DEBUG`  →  `UNDERSTAND`
-
-<br><br>
-
-<sub>still building.</sub>
-
-</div>
 
 
 ---
